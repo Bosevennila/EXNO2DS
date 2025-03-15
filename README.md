@@ -64,5 +64,6 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 ![18](https://github.com/user-attachments/assets/dd94d044-6cf1-4a31-8fa8-0fc84c6a3b53)
 
-## RESULT
-        The program was successfully Executed.
+## RESULT:
+
+The program was successfully Executed.
